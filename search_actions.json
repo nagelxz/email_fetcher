@@ -1,0 +1,12 @@
+{
+	"email": [
+		{
+			"search-criteria": "BODY test",
+			"actions": "print body"
+		},
+		{
+			"search-criteria": "UNSEEN FROM gmail subject testing",
+			"actions": "text attachment save"
+		}
+	]
+}
