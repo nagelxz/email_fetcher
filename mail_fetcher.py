@@ -47,3 +47,4 @@ for option in search['email']:
             process_message(msg,option['actions'])
              
             
+mailserver.logout()
